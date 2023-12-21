@@ -1,5 +1,5 @@
 {
-    "name": "Integration blueprint",
+    "name": "Notification Center",
     "filename": "ha-notification-center.zip",
     "hide_default_branch": true,
     "homeassistant": "2023.8.0",
