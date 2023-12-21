@@ -1,0 +1,12 @@
+{
+  "domain": "ha-notification-center",
+  "name": "Integration blueprint",
+  "codeowners": [
+    "@ludeeus"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/ludeeus/ha-notification-center",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/ludeeus/ha-notification-center/issues",
+  "version": "0.0.0"
+}
